@@ -6,4 +6,4 @@ podLabels:
   component: client-ui
 container: 
   image: mukeshphulwani66/k8s-client-demo
-  port: 80
+  port: 80 

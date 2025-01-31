@@ -17,6 +17,7 @@ spec:
       containers:
       - name: clientcontainer
         image: {{.Values.container.image}}
+        imagePullPolicy: Always
         resources:
           limits:
             memory: "128Mi"

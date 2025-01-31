@@ -34,7 +34,7 @@ function App() {
   },[])
   return (
     <div className="App">
-       <h1>Programming Jokes - v3 on EKS!</h1>
+       <h1>Programming Jokes - v4 on EKS!</h1>
        <hr />
        <JokeList jokes={jokes} />
     </div>

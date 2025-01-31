@@ -1,5 +1,0 @@
-apiVersion: v2
-name: client
-description: A Helm chart for mern application frontend 
-type: application
-version: 0.2.0
